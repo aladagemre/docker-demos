@@ -1,0 +1,5 @@
+biflask:
+  build: .
+  #image: fikrimuhal/biflask
+  ports:
+    - 5000:5000
